@@ -1,0 +1,12 @@
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.deps.json
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.runtimeconfig.json
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.runtimeconfig.dev.json
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.dll
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.pdb
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.csprojAssemblyReference.cache
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.AssemblyInfoInputs.cache
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.AssemblyInfo.cs
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.dll
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\obj\Debug\netcoreapp2.1\KSIS_LAB_4.pdb
+C:\Users\PetulAlexey\source\repos\KSIS_LAB_4\KSIS_LAB_4\bin\Debug\netcoreapp2.1\KSIS_LAB_4.dll.config

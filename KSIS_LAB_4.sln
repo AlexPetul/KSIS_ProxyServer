@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KSIS_LAB_4", "KSIS_LAB_4\KSIS_LAB_4.csproj", "{DED4F9AB-F622-4A18-AB6B-5946659BBB11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DED4F9AB-F622-4A18-AB6B-5946659BBB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DED4F9AB-F622-4A18-AB6B-5946659BBB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DED4F9AB-F622-4A18-AB6B-5946659BBB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DED4F9AB-F622-4A18-AB6B-5946659BBB11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21DD8136-5E46-4402-97FB-C8838F122EBE}
+	EndGlobalSection
+EndGlobal
